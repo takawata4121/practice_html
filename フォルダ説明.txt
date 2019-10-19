@@ -1,0 +1,1 @@
+onsenにあるコードをshift-jisからutf-8に直したもの
